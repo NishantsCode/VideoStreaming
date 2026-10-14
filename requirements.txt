@@ -1,0 +1,5 @@
+# methods to run this requirements.txt file
+# pip install -r requirements.txt
+
+flask
+opencv-python
